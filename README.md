@@ -1,7 +1,7 @@
 <h1>Egg Timer</h1>
 
 
-Click how you'd like your eggs and an alarm will ring just at the right time. For now it will ring at 5 seconds, 7 seconds, 12 seconds because I had to check if it was working but didn't want to wait..
+Choose how you'd like your eggs and an alarm will ring just at the perfect time. For now it will ring at 5 seconds, 7 seconds, 12 seconds because I had to check if it was working but didn't want to wait..
 
 Material provided from [AppBrewery](https://www.appbrewery.co/), and all my appreciation goes to the amazing instructor Angela Yu.
 
